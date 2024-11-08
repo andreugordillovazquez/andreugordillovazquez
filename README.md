@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
-<h3 align="center">A Telecommunications Network Engineering student and Support Lead at Framer</h3>
-
-- 🌱 I'm currently learning **to develop iOS apps using Swift and SwiftUI**
+<h3 align="center">A Telecommunications Network Engineering student and Marketplace Lead at Framer</h3>
 
 - 📫 How to reach me **hey@andreugordillo.com**
 
