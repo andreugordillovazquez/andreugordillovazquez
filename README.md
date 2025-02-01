@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
-<h3 align="center">A Telecommunications Network Engineering student and Marketplace Lead at Framer</h3>
+<h3 align="center">Marketplace Lead at Framer and a Telecommunications Network Engineering student </h3>
 
 - 📫 How to reach me **hey@andreugordillo.com**
 
